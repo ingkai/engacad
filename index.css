@@ -1,0 +1,31 @@
+/* Global Styles */
+* {
+    font-family: sans-serif;
+}
+
+
+/* Title styles */
+
+.title {
+    text-align: center;
+    font-size: 3rem;
+}
+
+/* Main Image Styles */
+#big-image img {
+    /* adjust the values below */
+    border-radius: 30px;
+    width: 40%;
+    height: auto;
+}
+/* Container */
+
+.body {
+    text-align: center;
+}
+
+/* Footer styles */
+
+footer {
+    text-align: right;
+}

@@ -1,0 +1,8 @@
+/* List Item Styling */
+.body li {
+    display: block;
+}
+
+footer {
+    text-align: right;
+}
